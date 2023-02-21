@@ -1,6 +1,24 @@
 Project 1: Tokenizer
 ====================
-# Instructions:
+# Overview:
+This is a simple tokenizer project written in C.
+The purpose of this program will alloow the user to add, retrieve, and
+print a list of previously entered commands.
+
+# How to compile and run?
+To compile this program open up the command line and change directory to be in the
+src directory.
+
+Once in the directory. Open up a bash shell and type the following command:
+
+make
+
+This will compile the file into an executable program.
+
+Lastly type the following command to run the program:
+
+./token
+
 
 You should document your tokenizer in this file.
 
